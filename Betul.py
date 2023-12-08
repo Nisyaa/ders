@@ -1,1 +1,1 @@
-print("Betul")
+print("Betul Sener")
